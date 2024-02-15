@@ -170,7 +170,7 @@ Employee Table after Normalizing ID, EXP, PHONE:
 Weather Table after Normalizing TEMPARATURE, HUMIDITY:
 ![Uploading 304780420-df87cd1c-dbbd-4d84-a4af-9be3e72a9cf3.png…]()
 
-
+ 
 
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
