@@ -93,16 +93,13 @@ rainy,75.0,80.0,false,yes
 ### OUTPUT:
 
 Training Data Set -> Employee Table:
-![305007794-638fc39b-613b-44b4-85b3-0207efb1af96](https://github.com/user-attachments/assets/540af336-4c41-427f-aaa0-56a6afc59b20)
-
-![305007826-b0ad7eeb-28c8-45c3-8de9-3597b1833d7f](https://github.com/user-attachments/assets/2bdab0f7-7f8d-4f05-a97b-64550faa8a48)
+![WDM Ex 1 A](https://github.com/user-attachments/assets/eebe6fe5-f28f-4cc6-a021-fce1b1e8e284)
 
 
 
-<img width="180" alt="304777690-ea53e36a-6fd5-49ca-9421-bafdb8b7c1b6" src="https://github.com/820NaveenKumar208/WDM_EXP1/assets/154746066/88ee6250-47b0-430d-8935-164de4a5f3f3">
+![357287225-d78d8d17-c824-4962-bb22-e7a590b570c6](https://github.com/user-attachments/assets/cc2171f8-5f1b-49e5-9a79-ed135b457715)
 
-Training Data Set-> Weather Table
-<img width="169" alt="304777823-d06c775d-e8c3-4883-8afd-a2b681b6f022" src="https://github.com/820NaveenKumar208/WDM_EXP1/assets/154746066/f90ccd8d-6459-40e7-b0a1-ee8f1d9887a3">
+
 
 
 
@@ -127,11 +124,13 @@ Training Data Set-> Weather Table
 ### OUTPUT:
 Employee Table after adding new attribute ADDRESS:
 
-![356813968-b79667d3-71ad-4fd7-b7d0-4a54bd93e28e](https://github.com/user-attachments/assets/66eea1d0-d566-4586-b69e-97d9b17e2e5c)
+<img width="325" alt="303897638-728a86d9-8cf8-4538-b040-610c085728b6" src="https://github.com/user-attachments/assets/c98730ef-7df3-491b-b1b9-12589c430a1a" />
+
 
 
 Weather Table after adding new attribute CLIMATE:
-![356813973-303919fd-10a4-4c56-98b9-112aedd7511f](https://github.com/user-attachments/assets/331686d2-8600-4e1b-881b-c16a8f2c72d0)
+
+<img width="334" alt="303897671-da9e8c12-5ccb-4a37-b1a6-d095714c7a4a" src="https://github.com/user-attachments/assets/b6b64c09-7648-429e-ae8e-7737ac4b83e1" />
 
 
 
@@ -152,11 +151,12 @@ Weather Table after adding new attribute CLIMATE:
 
 ### OUTPUT:
 Employee Table after removing attributes SALARY, GENDER:
-![356814117-db6977ba-ab09-4ac2-9ed9-bd6ca295aee4](https://github.com/user-attachments/assets/a5ee9fc0-e3d1-490a-9656-5702ae99ddb7)
+<img width="253" alt="303897784-2926a58d-218e-4fa2-a736-49e120f6b27c" src="https://github.com/user-attachments/assets/4a73f260-fb4d-41ba-8f77-4c46d6099142" />
+
 
 
 Weather Table after removing attributes WINDY, PLAY:
-![305008264-f7a9fe7d-f55a-49f5-89af-9deebd840e67](https://github.com/user-attachments/assets/e568086a-9397-499d-8186-7474309a346b)
+![357287525-2e54b5c1-641b-4458-9cf1-e37e77e408d7](https://github.com/user-attachments/assets/f9f4c62b-64f9-445f-a234-04d65fb325b1)
 
 
 ### Normalize -> Pre-Processing Technique:
@@ -176,11 +176,12 @@ Weather Table after removing attributes WINDY, PLAY:
 ### OUTPUT:
 Employee Table after Normalizing ID, EXP, PHONE:
 
-![303835822-0838cfcb-ccd5-490b-81a2-e647e9dd6feb](https://github.com/user-attachments/assets/903ca2c2-b8f2-4ea2-a7e7-308098d9b195)
+<img width="310" alt="303897821-2ca75794-e116-4fc0-822a-2b54ddfea301" src="https://github.com/user-attachments/assets/958e6c85-ad66-4ba2-8432-8ed2f28b635f" />
 
 
 Weather Table after Normalizing TEMPARATURE, HUMIDITY:
-![303836066-0f55c327-2f2f-44d0-87b8-5a7c57b7f2bd](https://github.com/user-attachments/assets/2b884928-154b-4bc7-a874-7e8707488fd4)
+<img width="308" alt="303897846-286209ed-e3d2-4eb6-b272-b25a3dc85468" src="https://github.com/user-attachments/assets/8886cac8-e91d-407f-87d8-c87a86f786b0" />
+
 
 
 
