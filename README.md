@@ -150,12 +150,12 @@ Weather Table after adding new attribute CLIMATE:
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
-Employee Table after removing attributes SALARY, GENDER:
+                                        Employee Table after removing attributes SALARY, GENDER:
 <img width="253" alt="303897784-2926a58d-218e-4fa2-a736-49e120f6b27c" src="https://github.com/user-attachments/assets/4a73f260-fb4d-41ba-8f77-4c46d6099142" />
 
 
 
-Weather Table after removing attributes WINDY, PLAY:
+                                       Weather Table after removing attributes WINDY, PLAY:
 ![357287525-2e54b5c1-641b-4458-9cf1-e37e77e408d7](https://github.com/user-attachments/assets/f9f4c62b-64f9-445f-a234-04d65fb325b1)
 
 
