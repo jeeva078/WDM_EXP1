@@ -174,12 +174,11 @@ Weather Table after adding new attribute CLIMATE:
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
-Employee Table after Normalizing ID, EXP, PHONE:
+                                                    Employee Table after Normalizing ID, EXP, PHONE:
+ <img width="310" alt="303897821-2ca75794-e116-4fc0-822a-2b54ddfea301" src="https://github.com/user-attachments/assets/958e6c85-ad66-4ba2-8432-8ed2f28b635f" />
 
-<img width="310" alt="303897821-2ca75794-e116-4fc0-822a-2b54ddfea301" src="https://github.com/user-attachments/assets/958e6c85-ad66-4ba2-8432-8ed2f28b635f" />
 
-
-Weather Table after Normalizing TEMPARATURE, HUMIDITY:
+                                                    Weather Table after Normalizing TEMPARATURE, HUMIDITY:
 <img width="308" alt="303897846-286209ed-e3d2-4eb6-b272-b25a3dc85468" src="https://github.com/user-attachments/assets/8886cac8-e91d-407f-87d8-c87a86f786b0" />
 
 
