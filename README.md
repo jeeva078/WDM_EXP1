@@ -1,5 +1,7 @@
-## EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
-### DATE: 15:02:2024
+# NAME : NAVEEN KUMAR T
+# REG NO : 212223220067
+# EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
+## DATE: 15:02:2024
 ### AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
 ### PROCEDURE: 
@@ -90,7 +92,11 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
-Training Data Set -> Employee Table
+Training Data Set -> Employee Table:
+![305007794-638fc39b-613b-44b4-85b3-0207efb1af96](https://github.com/user-attachments/assets/540af336-4c41-427f-aaa0-56a6afc59b20)
+
+![305007826-b0ad7eeb-28c8-45c3-8de9-3597b1833d7f](https://github.com/user-attachments/assets/2bdab0f7-7f8d-4f05-a97b-64550faa8a48)
+
 
 
 <img width="180" alt="304777690-ea53e36a-6fd5-49ca-9421-bafdb8b7c1b6" src="https://github.com/820NaveenKumar208/WDM_EXP1/assets/154746066/88ee6250-47b0-430d-8935-164de4a5f3f3">
@@ -121,9 +127,12 @@ Training Data Set-> Weather Table
 ### OUTPUT:
 Employee Table after adding new attribute ADDRESS:
 
+![356813968-b79667d3-71ad-4fd7-b7d0-4a54bd93e28e](https://github.com/user-attachments/assets/66eea1d0-d566-4586-b69e-97d9b17e2e5c)
 
 
 Weather Table after adding new attribute CLIMATE:
+![356813973-303919fd-10a4-4c56-98b9-112aedd7511f](https://github.com/user-attachments/assets/331686d2-8600-4e1b-881b-c16a8f2c72d0)
+
 
 
 
@@ -143,9 +152,11 @@ Weather Table after adding new attribute CLIMATE:
 
 ### OUTPUT:
 Employee Table after removing attributes SALARY, GENDER:
+![356814117-db6977ba-ab09-4ac2-9ed9-bd6ca295aee4](https://github.com/user-attachments/assets/a5ee9fc0-e3d1-490a-9656-5702ae99ddb7)
 
 
 Weather Table after removing attributes WINDY, PLAY:
+![305008264-f7a9fe7d-f55a-49f5-89af-9deebd840e67](https://github.com/user-attachments/assets/e568086a-9397-499d-8186-7474309a346b)
 
 
 ### Normalize -> Pre-Processing Technique:
@@ -165,10 +176,13 @@ Weather Table after removing attributes WINDY, PLAY:
 ### OUTPUT:
 Employee Table after Normalizing ID, EXP, PHONE:
 
-![Uploading 304780286-8fcdba8d-4f85-4181-9506-4b98f7899b4e.png…]()
+![303835822-0838cfcb-ccd5-490b-81a2-e647e9dd6feb](https://github.com/user-attachments/assets/903ca2c2-b8f2-4ea2-a7e7-308098d9b195)
+
 
 Weather Table after Normalizing TEMPARATURE, HUMIDITY:
-![Uploading 304780420-df87cd1c-dbbd-4d84-a4af-9be3e72a9cf3.png…]()
+![303836066-0f55c327-2f2f-44d0-87b8-5a7c57b7f2bd](https://github.com/user-attachments/assets/2b884928-154b-4bc7-a874-7e8707488fd4)
+
+
 
  
 
