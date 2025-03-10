@@ -1,7 +1,7 @@
-# NAME : NAVEEN KUMAR T
-# REG NO : 212223220067
+# NAME : JEEVANANDAM
+# REG NO : 212222220017
 # EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
-## DATE: 15:02:2024
+## DATE: 10:03:2025
 ### AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
 ### PROCEDURE: 
